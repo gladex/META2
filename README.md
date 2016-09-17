@@ -1,6 +1,6 @@
 # META2: Intercellular DNA METhylation Annotation & Analysis
 
-** About META2 **
+**About META2**
 
 META2 (DNA METhylation Annotator & Analyzer), aims to detect differential status of cross-cell DNA methylation, annotate the detected loci and perform downstream analysis. It contains multiple functions to run a series of operations on DNA methylation analysis and cross cell interrogation. Currently only RRBS (Reduced Representation Bisulfite Sequencing) can be directly run through the whole analysis procedure, but the package functions are be used to analyse the other datasets with the permitted input formats.
 
